@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruval</h1>
-<h3 align="center">I'm an Software Developer from Canada, presently planted in Kitchener, ON.
+<h3 align="center">I'm Software Developer from Canada, presently planted in Kitchener, ON.
         I bring expertise in attention to detail and problem solving into the digital sphere,
         always crafting solutions with pride</h3>
 
