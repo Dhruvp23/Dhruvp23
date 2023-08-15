@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruval</h1>
-<h3 align="center">A passionate Software Engineer dwelling in Kitchener Canada</h3>
+<h3 align="center">I'm software developer from Canada, presently planted in Kitchener, ON.
+        I bring expertise in attention to detail and problem solving into the digital sphere,
+        always crafting solutions with pride.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvp23&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvp23" /> </p>
 
